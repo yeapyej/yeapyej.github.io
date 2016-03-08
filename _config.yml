@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://yeapyej.github.io
+title: Ahavas Hashem
+email: yeapyej@hotmail.com
+author: Joel Yeap
+description: My awesome new site
+paginate: 3
+google_analytics: 
